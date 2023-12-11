@@ -68,10 +68,10 @@ header {
 }
 
 #content button[type="button"] {
-    background-color: #6c757d;
+    background-color: #cfdf53;
     margin-left: 10px;
 }
 
 #content button[type="button"]:hover {
-    background-color: #495057;
+    background-color: rgb(67, 185, 155);
 }
